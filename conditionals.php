@@ -1,4 +1,6 @@
 <?php
+
+require 'index.php';
 //simple if
 
 $color = 'green'; 
@@ -21,4 +23,4 @@ echo !empty($data) ? 'data ='.$data[0] : 'No data';
 
 echo '<br>';   
 $x= $data[0]==0 ? 'null' : 'not null';
-echo $x;
+echo $x; 

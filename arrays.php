@@ -1,6 +1,5 @@
-<html>
-<h6>Arrays</h6>
 <?php
+require 'index.php';
   //echo "arrays";
 
 //simple
@@ -50,4 +49,3 @@ foreach($people as $key => $value){
     }
     echo '<hr>';
   ?>
-</html>
