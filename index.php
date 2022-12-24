@@ -14,6 +14,8 @@
       <li><a href="arrays.php">arrays</a></li>
       <li><a href="conditionals.php">conditionals</a></li>
       <li><a href="loops.php">loops</a></li>
+      <li><a href="get_and_post.php">GET and POST</a></li>
+
 
     </ul>
   </body>
